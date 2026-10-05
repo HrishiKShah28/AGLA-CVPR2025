@@ -1,0 +1,28 @@
+{
+  "random": [
+    {"image_name": "skateboarder.jpg", "question": "Is there a person in the image?", "ground_truth": "Yes"},
+    {"image_name": "skateboarder.jpg", "question": "Is there a skateboard in the image?", "ground_truth": "Yes"},
+    {"image_name": "skateboarder.jpg", "question": "Is there an elephant in the image?", "ground_truth": "No"},
+    {"image_name": "skateboarder.jpg", "question": "Is there an airplane in the image?", "ground_truth": "No"},
+    {"image_name": "tennis.jpg", "question": "Is there a person in the image?", "ground_truth": "Yes"},
+    {"image_name": "tennis.jpg", "question": "Is there a tennis racket in the image?", "ground_truth": "Yes"},
+    {"image_name": "tennis.jpg", "question": "Is there a giraffe in the image?", "ground_truth": "No"},
+    {"image_name": "tennis.jpg", "question": "Is there a refrigerator in the image?", "ground_truth": "No"}
+  ],
+  "popular": [
+    {"image_name": "skateboarder.jpg", "question": "Is there a chair in the image?", "ground_truth": "No"},
+    {"image_name": "skateboarder.jpg", "question": "Is there a dining table in the image?", "ground_truth": "No"},
+    {"image_name": "skateboarder.jpg", "question": "Is there a backpack in the image?", "ground_truth": "No"},
+    {"image_name": "tennis.jpg", "question": "Is there a chair in the image?", "ground_truth": "No"},
+    {"image_name": "tennis.jpg", "question": "Is there a bottle in the image?", "ground_truth": "No"},
+    {"image_name": "tennis.jpg", "question": "Is there a sports ball in the image?", "ground_truth": "Yes"}
+  ],
+  "adversarial": [
+    {"image_name": "skateboarder.jpg", "question": "Is there a car in the image?", "ground_truth": "No"},
+    {"image_name": "skateboarder.jpg", "question": "Is there a bicycle in the image?", "ground_truth": "No"},
+    {"image_name": "skateboarder.jpg", "question": "Is there a helmet in the image?", "ground_truth": "No"},
+    {"image_name": "tennis.jpg", "question": "Is there a net in the image?", "ground_truth": "Yes"},
+    {"image_name": "tennis.jpg", "question": "Is there a referee in the image?", "ground_truth": "No"},
+    {"image_name": "tennis.jpg", "question": "Is there a scoreboard in the image?", "ground_truth": "No"}
+  ]
+}
